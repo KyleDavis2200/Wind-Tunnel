@@ -16,6 +16,9 @@ A DIY small scale wind tunnel made from everyday materials.
 <img width="617" height="422" alt="image" src="https://github.com/user-attachments/assets/bb91a5f2-5bb9-4299-b297-5dd4a4dd82c5" />
 <img width="787" height="707" alt="image" src="https://github.com/user-attachments/assets/4f638c2e-f236-4569-bad6-38f16fab0842" />
 
+# Background
+
+This wind tunnel uses a humidifier to create steam that will show the airflow over the model. The model is inserted into the tunnel, the window is screwed on, and then air flows through a funnel and a hose attached to the humidifier, into a straw inserted into the top of the model. The fan has a low, medium, and high speed setting allowing airflow to be visualized at different speeds. Most of the wind tunnel is built out of OSB, a cheap type of wood that is easily accessible. The collector part can be 3D printed, as that is the easiest way to make the smooth curve needed to guide the air into the tunnel. This wind tunnel is a little under 4 feet long and 9" square, and it can be built for under $100 if you already have a humidifier on hand.
 
 # Bill of Materials
 
